@@ -1,0 +1,42 @@
+body{
+    background: url(../images/Cafe.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+div{
+    color: darkcyan;
+    background-color: #FFDEAD;
+    width: 55%;
+    margin: 180px auto;
+    text-align: center;
+    font-family: cursive;
+    border-radius :70px ;
+    border: dashed;
+    padding-bottom: 10px;
+    opacity: 0.8;
+    
+    
+}
+h1{
+margin-top: 5px;
+margin-bottom: 0px;
+font-size: 5em;
+font-family: 'Pacifico', cursive;
+    opacity: 1;
+}
+p{
+font-size: 2em;
+font-family: 'Kaushan Script', cursive;
+    opacity: 1;
+}
+
+button{
+padding: 5px 25px ;
+    background: #778899;
+    color: white;
+    font-size: 1.2em;
+    border-radius: 10px;
+    opacity: 1;
+    box-shadow: 50px;
+    
+}

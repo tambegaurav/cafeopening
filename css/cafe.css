@@ -5,15 +5,15 @@ body{
 
 div{
     color: darkcyan;
-    background-color: #FFDEAD;
-    width: 55%;
+    background-color: white;
+    width: 60%;
     margin: 180px auto;
     text-align: center;
     font-family: cursive;
     border-radius :70px ;
     border: dashed;
     padding-bottom: 10px;
-    opacity: 0.8;
+   
     
     
 }
@@ -22,12 +22,12 @@ margin-top: 5px;
 margin-bottom: 0px;
 font-size: 5em;
 font-family: 'Pacifico', cursive;
-    opacity: 1;
+    
 }
 p{
 font-size: 2em;
 font-family: 'Kaushan Script', cursive;
-    opacity: 1;
+    
 }
 
 button{
